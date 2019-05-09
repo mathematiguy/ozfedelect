@@ -1,0 +1,3 @@
+[submodule "Census2016.DataPack"]
+	path = Census2016.DataPack
+	url = git@github.com:HughParsonage/Census2016.DataPack.git
